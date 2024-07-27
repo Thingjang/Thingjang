@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hung Thinh</h1>
+<h1 align="center">Hi 👋, I'm Thinh</h1>
 <h3 align="center">Im currently studying Computer Engineering Technology at HCMUTE.</h3>
 <img align="right" alt="coding" width="150"src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thingjang&label=Profile%20views&color=0e75b6&style=flat" alt="thingjang" /> </p>
